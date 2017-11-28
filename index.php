@@ -9,7 +9,7 @@
 
 .main {
   float:middle;
-  width:60%;
+  width:100%;
   padding:0 20px;
 }
 
