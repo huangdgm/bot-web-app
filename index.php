@@ -53,13 +53,12 @@
   </div>
 
   <div class="main">
-    <h2>Chat Bot</h2>
     <iframe src='https://webchat.botframework.com/embed/dongmybot?s=GJ14s70Rj8o.cwA.4Oo.vqDtk4rKypOUes-WbOIWraDVMH5eWw9Sy2-1_j47YXM'></iframe>
   </div>
 
   <div class="right">
     <h2>About</h2>
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+    <p>This is a responsive web page where you can chat with a bot.</p>
   </div>
 </div>
 
