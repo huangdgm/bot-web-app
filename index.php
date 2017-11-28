@@ -6,6 +6,10 @@
 * {
   box-sizing: border-box;
 }
+  
+iframe, object, embed {
+    max-width: 100%;
+}
 
 .main {
   float:middle;
