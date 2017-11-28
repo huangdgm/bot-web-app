@@ -8,7 +8,7 @@
 }
 
 .main {
-  float:center;
+  float:middle;
   width:60%;
   padding:0 20px;
 }
@@ -22,7 +22,7 @@
   text-align:center;
 }
 
-@media only screen and (max-width:620px) {
+@media only screen and (max-width:480px) {
   /* For mobile phones: */
   .main, .about {
     width:100%;
