@@ -39,7 +39,7 @@
 <div style="overflow:auto">
 
   <div class="main">
-    <iframe src='https://webchat.botframework.com/embed/dongmybot?s=GJ14s70Rj8o.cwA.4Oo.vqDtk4rKypOUes-WbOIWraDVMH5eWw9Sy2-1_j47YXM' width="600" height="400"></iframe>
+    <iframe src='https://webchat.botframework.com/embed/dongmybot?s=GJ14s70Rj8o.cwA.4Oo.vqDtk4rKypOUes-WbOIWraDVMH5eWw9Sy2-1_j47YXM' width="600" height="400" align="middle"></iframe>
   </div>
 
   <div class="about">
