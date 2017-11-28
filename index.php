@@ -8,7 +8,7 @@
 }
 
 .main {
-  float:left;
+  float:center;
   width:60%;
   padding:0 20px;
 }
