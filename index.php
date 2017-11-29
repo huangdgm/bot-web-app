@@ -43,17 +43,15 @@ iframe, object, embed {
 <div style="overflow:auto">
 
   <div class="main">
-    <iframe src='https://webchat.botframework.com/embed/dongmybot?s=GJ14s70Rj8o.cwA.4Oo.vqDtk4rKypOUes-WbOIWraDVMH5eWw9Sy2-1_j47YXM' width="1200" height="800" align="middle"></iframe>
+    <iframe src='https://webchat.botframework.com/embed/dongmybot?s=GJ14s70Rj8o.cwA.4Oo.vqDtk4rKypOUes-WbOIWraDVMH5eWw9Sy2-1_j47YXM' width="1200" height="700" align="middle"></iframe>
   </div>
 
   <div class="about">
-    <h2>About</h2>
+    <h3>About</h3>
     <p>This is a responsive web page where you can chat with a bot.</p>
   </div>
   
 </div>
-
-<div style="background-color:#e5e5e5;text-align:center;padding:5px;margin-top:3px;">© copyright</div>
 
 </body>
 </html>
