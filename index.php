@@ -14,15 +14,15 @@ iframe, object, embed {
 .main {
   float:middle;
   width:100%;
-  padding:0 20px;
+  padding:0 10px;
 }
 
 .about {
   background-color:#e5e5e5;
   float:right;
   width:100%;
-  padding:15px;
-  margin-top:7px;
+  padding:10px;
+  margin-top:3px;
   text-align:center;
 }
 
@@ -36,14 +36,14 @@ iframe, object, embed {
 </head>
 <body style="font-family:Verdana;color:#aaaaaa;">
 
-<div style="background-color:#e5e5e5;padding:15px;text-align:center;">
+<div style="background-color:#e5e5e5;padding:10px;text-align:center;">
   <h1>Hello Markers!</h1>
 </div>
 
 <div style="overflow:auto">
 
   <div class="main">
-    <iframe src='https://webchat.botframework.com/embed/dongmybot?s=GJ14s70Rj8o.cwA.4Oo.vqDtk4rKypOUes-WbOIWraDVMH5eWw9Sy2-1_j47YXM' width="1200" height="1000" align="middle"></iframe>
+    <iframe src='https://webchat.botframework.com/embed/dongmybot?s=GJ14s70Rj8o.cwA.4Oo.vqDtk4rKypOUes-WbOIWraDVMH5eWw9Sy2-1_j47YXM' width="1200" height="800" align="middle"></iframe>
   </div>
 
   <div class="about">
@@ -53,7 +53,7 @@ iframe, object, embed {
   
 </div>
 
-<div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">© copyright</div>
+<div style="background-color:#e5e5e5;text-align:center;padding:5px;margin-top:3px;">© copyright</div>
 
 </body>
 </html>
