@@ -12,7 +12,7 @@ iframe, object, embed {
 }
 
 .main {
-  float:middle;
+  float:left;
   width:100%;
   padding:0 10px;
 }
@@ -37,7 +37,7 @@ iframe, object, embed {
 <body style="font-family:Verdana;color:#aaaaaa;">
 
 <div style="background-color:#e5e5e5;padding:10px;text-align:center;">
-  <h1>Hello Markers!</h1>
+  <h2>Hello Markers!</h2>
 </div>
 
 <div style="overflow:auto">
